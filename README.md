@@ -1,0 +1,1 @@
+# daimaduan-common
